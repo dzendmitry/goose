@@ -7,7 +7,7 @@ import (
 	"testing"
 
 	"github.com/matryer/is"
-	"github.com/pressly/goose/v3"
+	"github.com/dzendmitry/goose/v3"
 )
 
 func TestMigrateUpWithReset(t *testing.T) {
